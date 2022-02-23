@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DEDSECcc 
 - 👀 I’m interested in doing Coding.
 - 🌱 I’m currently learning the basics of Coding.
-- 💞️ I’m looking to collaborate when i have learned fully.
+- 💞️ I’m looking to collaborate when i have completed learning.
 - 📫 How to reach me : I will notify when.....Loading
 
 <!---
