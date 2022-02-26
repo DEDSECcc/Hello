@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DEDSECcc 
 - 👀 I’m interested in doing Coding.
-- 🌱 I’m currently learning the basics of Coding.
+- 🌱 I’m currently learning Coding.
 - 💞️ I’m looking to collaborate when i have completed learning.
-- 📫 How to reach me : I will notify when.....Loading
+- 📫 How to reach me : I will notify when I.....Loading
 
 <!---
 DEDSECcc/DEDSECcc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
